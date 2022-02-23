@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning web development with php, react and python django
+- 🌱 I’m currently learning web development with angular, ionic and node
 - 📫 follow me on twitter @FavourMusenga
 <!--
 **favourMusenga/favourMusenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
